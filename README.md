@@ -2,7 +2,7 @@
 
   <h1>maaf</h1>
 
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGlpMnh6bXl6d3FrOXZvcWY3c3k0aTkydTExZHYxa2wzdzRrNm8wYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MSemvqMIRY3jMcvpd2/giphy.gif" width="200" />
 
   <br>
 
