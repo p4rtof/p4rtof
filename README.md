@@ -5,9 +5,6 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
 
   <br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=p4rtof&theme=flatonly&no-frame=true&margin-w=15" alt="trophy" />
-  </a>
 
   <br>
   
