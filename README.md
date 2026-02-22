@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1 align="left">Hi, I'm Fadhla</h1>
+  <h1 align="left">Hi, I'm Aaron</h1>
 
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGlpMnh6bXl6d3FrOXZvcWY3c3k0aTkydTExZHYxa2wzdzRrNm8wYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MSemvqMIRY3jMcvpd2/giphy.gif" width="200" />
 
